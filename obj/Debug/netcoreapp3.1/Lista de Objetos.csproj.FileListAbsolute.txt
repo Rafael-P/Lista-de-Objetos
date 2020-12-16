@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.genruntimeconfig.cache
